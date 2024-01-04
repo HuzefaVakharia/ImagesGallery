@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Ephesis-Regular.ttf",
+      "sha1": "86e2f73bf8d38e64ffd4455dab15e436957b0c8e"
+    },
+    {
+      "path": "assets/fonts/MorrisRoman-Black.ttf",
+      "sha1": "c2d6a7eabedc09ff5a440e509f9b6e5d26763923"
+    },
+    {
+      "path": "assets/fonts/MorrisRomanAlternate-Black.ttf",
+      "sha1": "db41736d1a30bdb17fe82580223a325adb293ac3"
+    },
+    {
+      "path": "assets/fonts/Via Appia.ttf",
+      "sha1": "87513eb3c4e29bd4fc6e5d36ff4366a4c32f53e2"
+    },
+    {
+      "path": "assets/fonts/Wolfalcon.ttf",
+      "sha1": "0e490ed5c15779232ddca4cb5ca1797730d4bd93"
+    }
+  ]
+}
